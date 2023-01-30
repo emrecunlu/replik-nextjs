@@ -16,7 +16,7 @@ export default function Footer() {
 							<div className="h-16">
 								<Link href="/">
 									<Image
-										src="/static/images/site_logo.png"
+										src="/static/images/site_logo.svg"
 										width={120}
 										height={30}
 										alt="Navbar Logo"
